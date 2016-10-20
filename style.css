@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre');
+
+header {
+  height: 100px;
+  font-family: Abhaya Libre;
+  background-color: lightgrey;
+  border-style: groove;
+  padding-top: 30px;
+}
+main p{
+  font-family: Abhaya Libre;
+  font-size: 120%;
+}
+.wrapper {
+  width: 900px;
+  margin: auto;
+}
+header h1{
+  margin: 0;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  font-family: Abhaya Libre;
+  font-size: 85px;
+  color: white;
+  letter-spacing: 4;
+}
+.outside {
+  text-align: center;
+}
+main {
+
+}
+
+a {
+  link: green;
+
+}
+footer {
+  height: 120px;
+  background-color: grey;
+
+}
+main h2{
+  font-family: Abhaya Libre;
+  letter-spacing: 2px;
+  font-size: 24px;
+}
+h3{
+  font-family: Abhaya Libre;
+  font-size: 200%;
+}
+p{
+  font: Abhaya Libre;
+  text-align: left;
+
+}
+li{
+  line-height: 30px
+}
+.feet {
+  letter-spacing: 0;
+}
+footer {
+  border-style: double;
+  border-color: black;
+}
+.container {
+  position: relative;
+}
+.trademark {
+  position: absolute;
+  top: -50px;
+  left: 1000px;
+}
+li {
+  font-family: Abhaya Libre;
+  letter-spacing: 2px;
+}
